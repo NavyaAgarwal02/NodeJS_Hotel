@@ -1,12 +1,12 @@
 {
   "name": "node_tutorial",
   "version": "1.0.0",
-  "description": "its a nodejs tutorial by prince",
+  "description": "its a nodejs tutorial by Navya"
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "prince kumar",
+  "author": "Navya Agarwal",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
